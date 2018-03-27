@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: wcq214536@163.com
 description: ""
 keyword: ""
-url: "http://SuperWang.github.io"              # your host, for absolute URL
+url: "https://superiorwang.github.io/SuperWang.github.io/"              # your host, for absolute URL
 baseurl: "/SuperWang"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
